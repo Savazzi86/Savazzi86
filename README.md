@@ -1,7 +1,7 @@
-Hi! I'm Bruno Savazzi!
-Graphic Designer from Brazil
-Studying Front End Dev
-JavaScript | HTML | CSS
+<p>Hi! I'm Bruno Savazzi!</p>
+<p></p>Graphic Designer from São Paulo/Brazil</p>
+<p></p>Studying Front End Dev</p>
+<p></p>JavaScript | HTML | CSS</p>
 
 <!---
 Savazzi86/Savazzi86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
