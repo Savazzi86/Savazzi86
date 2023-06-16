@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Savazzi86
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning JavaSript | HTML5 | CSS3
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi! I'm Bruno Savazzi!
+Graphic Designer from Brazil
+Studying Front End Dev
+JavaScript | HTML | CSS
 
 <!---
 Savazzi86/Savazzi86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
